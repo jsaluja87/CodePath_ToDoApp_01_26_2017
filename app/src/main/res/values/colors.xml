@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="MainRelColor">#616161</color>
+    <color name="MainButtonColor">#ffffff</color>
+    <color name="MainLsVColor">#ffffff</color>
+    <color name="MainLsViDivColor">#a19898</color>
+    <color name="MainETColor">#ffffff</color>
+
+    <color name="FragColor">#616161</color>
+    <color name="FragHeaderColor">#ffffff</color>
+    <color name="FragPriorityETColor">#ffffff</color>
+    <color name="FragButtonETColor">#000000</color>
+    <color name="FragDatePickerHBColor">#6f9fda</color>
+    <color name="FragTextColor">#ffffff</color>
+
+    <color name="listRowTitleColor">#000000</color>
+    <color name="listRowDateColor">#000000</color>
+    <color name="listRowPriorityColor">#a65050</color>
+    <color name="listRowLinColor">#d6d3d3</color>
+    <color name="listRowRelColor">#d6d3d3</color>
+</resources>

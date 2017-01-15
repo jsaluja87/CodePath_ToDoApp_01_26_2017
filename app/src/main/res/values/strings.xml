@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ItemTracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="ButtonAdd">Add</string>
+    <string name="ButtonDateSelect">Date</string>
+    <string name="InputHint">Add a new Item</string>
+    <string name="ScndActHeader">Edit Details</string>
+    <string name="ScndActButton">Save</string>
+</resources>
